@@ -1,0 +1,32 @@
+[
+  {
+    "description": "The kebab restaurant in our neighborhood is a delightful gem! The enticing aroma that fills the air as you approach is enough to make your mouth water. Their extensive selection of kebabs is remarkable, and every bite is a burst of exquisite flavor.",
+    "name": "John Doe",
+    "date": "3 days ago",
+    "stars": 4
+  },
+  {
+    "description": "The kebab joint in our locality is an absolute favorite of mine! The tantalizing scent that greets you as you draw near is irresistible. Their array of kebabs is diverse and impressive, and each one is a culinary delight, bursting with flavor.",
+    "name": "John Doe2",
+    "date": "3 days ago",
+    "stars": 5
+  },
+  {
+    "description": "I have a soft spot for the kebab place in our area! The alluring fragrance that drifts through the atmosphere is simply irresistible. Their wide range of kebab options is commendable, and while each one is flavorful, some could use a bit more finesse.",
+    "name": "John Doe3",
+    "date": "3 days ago",
+    "stars": 3
+  },
+  {
+    "description": "I'm quite fond of the kebab spot in our vicinity! The enticing aroma that lingers in the air as you approach is simply irresistible. Although they offer an impressive variety of kebabs, some may fall short in terms of flavor and execution.",
+    "name": "John Doe4",
+    "date": "3 days ago",
+    "stars": 2
+  },
+  {
+    "description": "The kebab restaurant nearby has left me rather indifferent. While the aroma that permeates the air is indeed inviting, the variety of kebabs they offer fails to excite. Unfortunately, the flavor of each kebab leaves much to be desired.",
+    "name": "John Doe5",
+    "date": "3 days ago",
+    "stars": 0
+  }
+]
